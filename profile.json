@@ -1,0 +1,20 @@
+[
+  {
+    "id" : 1,
+    "Nama" : "Dion",
+    "Umur" : 24
+  },
+
+  {
+    "id" : 2,
+    "Nama" : "Song",
+    "Umur" : 25
+  },
+
+  {
+    "id" : 3,
+    "Nama" : "Debby",
+    "Umur" : 23
+  }
+  
+]
